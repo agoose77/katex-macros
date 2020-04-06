@@ -122,6 +122,7 @@ $$
 <!-- algebra -->
 $$
 \gdef\comp#1#2{#1\circ#2}
+\gdef\to{\mathinner {\ldotp \ldotp}}
 $$
 
 <!-- Style notes
