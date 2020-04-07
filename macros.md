@@ -105,7 +105,7 @@ $$
 \gdef\unit#1{\operatorname{#1}}
 \gdef\amu{u}
 \gdef\MeV{\operatorname{MeV}}
-\gdef\keV{\operatorname{MeV}}
+\gdef\keV{\operatorname{keV}}
 \gdef\eV{\operatorname{eV}}
 \gdef\m{\operatorname{m}}
 $$
